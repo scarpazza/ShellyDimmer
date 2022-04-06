@@ -142,7 +142,7 @@ Set up a schedule as desired.
 
 
 
-### 5. Conclusions
+## Conclusions
 
 I enjoyed using the Shelly 2 dimmer to retrofit an existing set of porch lights, turning them into a programmable setup. 
 
