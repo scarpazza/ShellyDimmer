@@ -32,7 +32,9 @@ This step is crucial if you aren't the person who installed the original setup, 
 
 Safely examine the existing switches and wires to identify the hot and leg side, respectively, and identify the traveller wires. 
 
-INSERT DIAGRAM HERE
+<img src="images/Schematics-72dpi.jpg"
+  title="Schematics"
+  style="display: inline-block; margin: 0 auto; max-width: 80%">
 
 The “before” diagram depicts the original setup I identified, which is a traditional 3-way switch 
 configuration with two switches, albeit with a non-conventional wire colors.
