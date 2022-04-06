@@ -118,7 +118,11 @@ might revert to your residential Wi-Fi with no warning, thus disconnecting from 
 and making it impossible for you to configure it.
 
 On your laptop or smartphone, point a web browser to IP address 192.168.33.1 and configure the dimmer. 
-Under “Settings” and “Button type”, select “dual button mode”.
+Under “Settings” and “Button type”, select “dual button mode” as in the figure below.
+
+<img src="images/50%20Configuration.jpg"
+  title="Shelly device configuration"
+  style="display: inline-block; margin: 0 auto; max-width: 80%">
 
 Set the necessary credentials for the dimmer to connect to your residential Wi-Fi, then switch your laptop 
 or smartphone to the same residential Wi-Fi network and use a browser to connect to the dimmer at its new IP address.
