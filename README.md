@@ -74,7 +74,7 @@ For example, my original setup used Leviton Decora switches. I replaced them wit
 Part Number 5657-2W switches, which are single-pole, double-throw, center-off, commercial grade, 
 self-grounding rockers rated for 15A, 120/277V, and have the same form factor and color choices as the original.
 
-[Video of the components used](images/10%20Components.mov)
+![Video of the components used](images/10%20Components.mov)
 
 Before wiring, use a multimeter to identify the “up” and “down” terminals of the momentary switches 
 in relation to the top and bottom of the switch. At the risk of stating the obvious, the top is identified 
